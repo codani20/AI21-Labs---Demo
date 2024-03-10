@@ -1,4 +1,4 @@
-<img width="600" alt="logo" src=<"[https://github.com/AI21Labs/studio-demos/assets/153112649/7b0664c8-7393-4e35-afbf-67cce905da31](https://github.com/codani20/AI21-Labs---Demo/blob/master/assets/Moving%20Alone%20Logo.png)">
+<img width="600" alt="logo" src="[https://github.com/AI21Labs/studio-demos/assets/153112649/7b0664c8-7393-4e35-afbf-67cce905da31](https://github.com/codani20/AI21-Labs---Demo/blob/master/assets/Moving%20Alone%20Logo.png)">
 
 # AI21 Studio Demos
 
